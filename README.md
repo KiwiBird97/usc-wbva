@@ -14,7 +14,7 @@ To view the WBCIVA app, go to the following url: https://share.streamlit.io/kiwi
 
 ## Local Launch
 
-The main.py is the source code for the WBCIVA app and the requirements are in the requirements.txt file.
+The source code for the WBCIVA app is in the main.py file and the requirements are in the requirements.txt file.
 
 1. Click the green Code dropdown button, and then **Download ZIP**.
 2. Open the folder in your code editor.
