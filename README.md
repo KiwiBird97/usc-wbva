@@ -1,5 +1,9 @@
 # DSCI 551 Final Project
-Creating an application to help at-risk students succeed.
+
+## Test Mode
+This app is a soft launch and will only be available until May 23, 2022.
+
+We are creating an application to help at-risk students succeed.
 
 We take all the feedback by heart to make this important app.
 
