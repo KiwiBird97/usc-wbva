@@ -1,4 +1,4 @@
-# DSCI 551/OT 101
+# DSCI 551 Final Project
 Creating an application to help at-risk students succeed.
 
 We take all the feedback by heart to make this important app.
