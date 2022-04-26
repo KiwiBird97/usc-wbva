@@ -29,3 +29,6 @@ pip3 install -r requirements.txt
 ```
 streamlit run main.py
 ```
+
+## Themes
+This app supports light and dark themes. You can change it from the hamburger menu on the top right > **Settings** > **Theme**.
